@@ -2,7 +2,7 @@
 
 I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.
 
-My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, to Mysql, Postgres, MongoDB, and I have 8+ years of experience.
+My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
 
 <a href="https://solana.com/" rel="nofollow"><img alt="Solana" title="Solana" src="https://github.com/todaycodemaster/logos/raw/master/solana.png" height="42" style="max-width: 100%;"></a>
 <a href="https://laravel.com" rel="nofollow"><img alt="Laravel" title="Laravel" src="https://camo.githubusercontent.com/a9b90bc1fb6f21e54eb127185c89efbe548dd64ca38d0d88832c8157e7237f6f/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f6c61726176656c2e706e67" height="42" data-canonical-src="https://topskill.dev/logos/laravel.png" style="max-width: 100%;"></a>
