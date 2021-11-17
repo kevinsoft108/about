@@ -4,7 +4,6 @@ I believe I would be an excellent fit for this position since I am a software en
 
 My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
 
-<a href="https://solana.com/" rel="nofollow"><img alt="Solana" title="Solana" src="https://github.com/todaycodemaster/logos/raw/master/solana.png" height="42" style="max-width: 100%;"></a>
 <a href="https://python.org" rel="nofollow"><img alt="Python" title="Python" src="https://camo.githubusercontent.com/c343a78a58348e27b2a7eb993e81ed2854686c98b813c55045971431c4751543/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f707974686f6e2e706e67" height="42" data-canonical-src="https://topskill.dev/logos/python.png" style="max-width: 100%;"></a>
 <a href="https://fastapi.tiangolo.com/" rel="nofollow"><img alt="FastAPI" title="FastAPI" src="https://github.com/Buuntu/fastapi-react/raw/master/assets/fastapi-logo.png" height="42" data-canonical-src="https://topskill.dev/logos/python.png" style="max-width: 100%;"></a>
 <a href="https://www.djangoproject.com/" rel="nofollow"><img alt="Django" title="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" height="42" style="max-width: 100%;"></a>
@@ -21,7 +20,6 @@ My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node
 <a href="https://www.postgresql.org" rel="nofollow"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/raw/master/postgresql.png" height="42" style="max-width: 100%;"></a>
 <a href="https://www.mongodb.com/" rel="nofollow"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42" style="max-width: 100%;"></a>
 <a href="https://codeigniter.com/" rel="nofollow"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/todaycodemaster/logos/raw/master/ci.png" height="42" style="max-width: 100%;"></a>
-<a href="https://flutter.dev" rel="nofollow"><img alt="Flutter" title="Flutter" src="https://github.com/todaycodemaster/logos/raw/master/flutter.png" height="42" style="max-width: 100%;"></a>
 
 As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.
 
