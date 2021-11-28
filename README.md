@@ -23,7 +23,7 @@ My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node
 
 As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.
 
-Also, I'm familiar with several kinds of testing systems like jest, cucumber, rspec;
+Also, I'm familiar with several kinds of testing systems like jest, cucumber, rspec, jest;
 
 Because of my breadth of experience, I believe that I would make an excellent addition to your team.
 
