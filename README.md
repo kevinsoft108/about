@@ -36,4 +36,4 @@ kevinsoft108@gmail.com
 devman80@yandex.com
 
 #### Sype
-unix515@outlook.com
+unix515@outlook.com devman80@yandex.com
