@@ -32,8 +32,7 @@ Sincerely,
 📫 How to reach me ...
 
 #### Email
-kevinsoft108@gmail.com
 devman80@yandex.com
 
 #### S   y p e
-unix515@outlook.com devman80@yandex.com
+devman80@yandex.com
