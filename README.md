@@ -34,5 +34,5 @@ Sincerely,
 #### Email
 devman80@yandex.com
 
-#### S   y p e
+#### S c y p e
 devman80@yandex.com
