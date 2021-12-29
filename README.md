@@ -35,5 +35,5 @@ Sincerely,
 kevinsoft108@gmail.com
 devman80@yandex.com
 
-#### Sype
+#### S k y p e
 unix515@outlook.com devman80@yandex.com
