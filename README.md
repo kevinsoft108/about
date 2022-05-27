@@ -29,10 +29,3 @@ Because of my breadth of experience, I believe that I would make an excellent ad
 
 Sincerely,
 
-📫 How to reach me ...
-
-#### Email
-devman80@yandex.com
-
-#### Sckype
-devman80@yandex.com
