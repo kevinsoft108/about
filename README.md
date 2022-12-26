@@ -26,7 +26,6 @@ As a software engineer, I'm familiar with GitHub, GitLab, etc for version contro
 Also, I'm familiar with several kinds of testing systems like jest, cucumber, rspec;
 
 Because of my breadth of experience, I believe that I would make an excellent addition to your team. 
-My Skype is devman80@yandex.com
 
 Sincerely,
 
