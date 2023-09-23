@@ -2,7 +2,7 @@
 
 I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.
 
-My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
+My skills range from C++, Android, Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 10+ years of experience.
 
 <a href="https://python.org" rel="nofollow"><img alt="Python" title="Python" src="https://camo.githubusercontent.com/c343a78a58348e27b2a7eb993e81ed2854686c98b813c55045971431c4751543/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f707974686f6e2e706e67" height="42" data-canonical-src="https://topskill.dev/logos/python.png" style="max-width: 100%;"></a>
 <a href="https://fastapi.tiangolo.com/" rel="nofollow"><img alt="FastAPI" title="FastAPI" src="https://github.com/Buuntu/fastapi-react/raw/master/assets/fastapi-logo.png" height="42" data-canonical-src="https://topskill.dev/logos/python.png" style="max-width: 100%;"></a>
